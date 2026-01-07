@@ -34,19 +34,16 @@ basic_info:
     # Contact Information
     email: jcastnedachavarro@gmail.com
     phone: 234 2342 342 #optiona
-    website: asd.com #optional
+    website: https://github.com/jcastanedachavarro-lgtm #optional
     linkedin: alandoe #optional
 
     # Languages you speak, levels include: Native, Professional
     languages:
-      - idiom: English
+    - idiom: Spanish
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+        
+    - idiom: English
+        level: Professional 
 
     # Interests or hobbies
     interests:
